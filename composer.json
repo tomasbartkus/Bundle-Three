@@ -1,12 +1,22 @@
 {
   "name": "tbh24/bundle-three",
   "description": "Bundle three",
-  "minimum-stability": "dev",
+  "minimum-stability": "stable",
   "license": "proprietary",
   "authors": [
     {
       "name": "author's name",
       "email": "email@example.com"
     }
-  ]
+  ],
+  "repositories": [
+    {
+      "type": "composer",
+      "url": "http://localhost:8081/"
+    }
+  ],
+  "require": {
+    "php": ">=5.3.3",
+    "tbh24/bundle-one": "0.1.*@dev"
+  }
 }
