@@ -4,7 +4,7 @@
         "Read more about it at http://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "26f8cc275ea6d431e29231dfc2beffea",
+    "hash": "fc340bf729e3e19dc280562bc8d2bb64",
     "packages": [
         {
             "name": "tbh24/bundle-one",
@@ -45,7 +45,7 @@
     ],
     "packages-dev": [],
     "aliases": [],
-    "minimum-stability": "stable",
+    "minimum-stability": "dev",
     "stability-flags": {
         "tbh24/bundle-one": 20
     },
