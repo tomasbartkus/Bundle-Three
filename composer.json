@@ -17,7 +17,7 @@
   ],
   "require": {
     "php": ">=5.3.3",
-    "tbh24/bundle-one": "0.1.*@dev"
+    "tbh24/bundle-one": "1.0.*@dev"
   },
   "extra": {
     "branch-alias": {

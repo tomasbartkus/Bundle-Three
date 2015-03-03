@@ -1,0 +1,58 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at http://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
+        "This file is @generated automatically"
+    ],
+    "hash": "26f8cc275ea6d431e29231dfc2beffea",
+    "packages": [
+        {
+            "name": "tbh24/bundle-one",
+            "version": "dev-master",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/tomasbartkus/Bundle-One.git",
+                "reference": "e41fac7451cc567dc11e41c6b3f327fd690fa4f1"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/tomasbartkus/Bundle-One/zipball/e41fac7451cc567dc11e41c6b3f327fd690fa4f1",
+                "reference": "e41fac7451cc567dc11e41c6b3f327fd690fa4f1",
+                "shasum": ""
+            },
+            "type": "library",
+            "extra": {
+                "branch-alias": {
+                    "dev-master": "1.0.x-dev"
+                }
+            },
+            "license": [
+                "proprietary"
+            ],
+            "authors": [
+                {
+                    "name": "author's name",
+                    "email": "email@example.com"
+                }
+            ],
+            "description": "Bundle one",
+            "support": {
+                "source": "https://github.com/tomasbartkus/Bundle-One/tree/master",
+                "issues": "https://github.com/tomasbartkus/Bundle-One/issues"
+            },
+            "time": "2015-02-27 09:01:56"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": {
+        "tbh24/bundle-one": 20
+    },
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": {
+        "php": ">=5.3.3"
+    },
+    "platform-dev": []
+}
